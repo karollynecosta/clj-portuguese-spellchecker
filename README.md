@@ -15,6 +15,3 @@ nil
 clj-portuguese-spellchecker.core=> exit
 
 ```
-
-## License
-MIT
